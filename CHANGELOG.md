@@ -1,3 +1,15 @@
+# v0.0.3 (Wed Feb 12 2025)
+
+#### ⚠️ Pushed to `master`
+
+- feat: install required fonts for python rendering ([@serafdev](https://github.com/serafdev))
+
+#### Authors: 1
+
+- فارس بالسرور ([@serafdev](https://github.com/serafdev))
+
+---
+
 # v0.0.2 (Fri Feb 23 2024)
 
 #### 🐛 Bug Fix
